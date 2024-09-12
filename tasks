@@ -1,0 +1,4 @@
+ensure skeleton of cron jobs are running 
+create connection to mongo db 
+put sample data in monogo db 
+create apis for mongo do - to read data, to put data, to update and remove data via mongo db 
