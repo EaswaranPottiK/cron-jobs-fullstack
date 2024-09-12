@@ -18,6 +18,7 @@ At the same time backend picks up each task based on a first in first out queue 
 ![image](https://github.com/user-attachments/assets/52ce055b-a765-4365-98ae-6205cd50bf27)
 
 The backend email sent job execute every 10 sec. So once these jobs these items are removed form mongodb as well so the changes whould get reflected in fronend
-![2](https://github.com/user-attachments/assets/25c170d0-83b8-4c8b-ab41-5f89b77df28e)
-![1](https://github.com/user-attachments/assets/8d7fc2f9-2e2c-48f1-bb35-37067247442c)
+![1](https://github.com/user-attachments/assets/65f551c7-1d11-4a26-a4c6-708d015ba62a)
+![2](https://github.com/user-attachments/assets/b43f109d-3ebb-4b4b-b97e-eac98b0dea15)
+
 
