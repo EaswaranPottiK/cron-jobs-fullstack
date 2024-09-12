@@ -6,6 +6,13 @@ front end: React JS
 Backend: Node/ Express JS
 Database: Mongo DB
 
+# Production URL
+https://66e35858a788ca3ebd490a32--splendid-palmier-7fe0ce.netlify.app/
+Please note: recepient email id should be easwaranpottiak@gmail.com otherwise mail wont be sent as iam using a free version of SECURE node mailer 
+If you are not setting recipient to my email id then backend whould give a 403 error 
+![image](https://github.com/user-attachments/assets/7d914757-8e70-4045-921e-40b5aa73ba4c)
+
+
 # How does the app work ?
 You can add details of the email to be sent by typeing Job name, a vaild email id, Discription of the job 
 ![1](https://github.com/user-attachments/assets/256f2f84-5ee5-4ae2-bfbb-805263a1b54e)
